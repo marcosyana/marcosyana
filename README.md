@@ -1,6 +1,8 @@
-<h3 align="center">Hola 🖐️ Mi Nombre es Marcos Yana 🐺</h3>
+<h3 align="center">Hola 🖐️ Mi Nombre es Mayqui Paulsen 🐺</h3>
 
 ###
+
+<br clear="both">
 
 <div align="right">
   <img height="200" src="https://github.com/marcosyana/imagen/blob/main/Backend.png?raw=true"  />
@@ -164,11 +166,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mayquios/mayquios/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mayquios/count.svg?"  />
-</div>
 
 ###
