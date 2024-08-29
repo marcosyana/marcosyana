@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">FreeLance Full - Stack 💼<br>Web Developer 💻<br>Mobile Developer 📱<br>Cisco -Redes NetWorking 🛰<br>Ingeniero de Software 🧔</p>
+<p align="left">FreeLance Full - Stack 💼<br>Web Developer 💻<br>Mobile Developer 📱<br>. 🛰<br>Ingeniero de Software 🧔</p>
 
 ###
 
